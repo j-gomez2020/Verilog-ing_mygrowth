@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="multi_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="multi_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1490095fs"></ZoomEndTime>
+      <Cursor1Time time="275000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/multi_tb/x2" type="logic">
+      <obj_property name="ElementShortName">x2</obj_property>
+      <obj_property name="ObjectShortName">x2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/x1" type="logic">
+      <obj_property name="ElementShortName">x1</obj_property>
+      <obj_property name="ObjectShortName">x1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/x0" type="logic">
+      <obj_property name="ElementShortName">x0</obj_property>
+      <obj_property name="ObjectShortName">x0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/y2" type="logic">
+      <obj_property name="ElementShortName">y2</obj_property>
+      <obj_property name="ObjectShortName">y2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/y1" type="logic">
+      <obj_property name="ElementShortName">y1</obj_property>
+      <obj_property name="ObjectShortName">y1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/y0" type="logic">
+      <obj_property name="ElementShortName">y0</obj_property>
+      <obj_property name="ObjectShortName">y0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/p0" type="logic">
+      <obj_property name="ElementShortName">p0</obj_property>
+      <obj_property name="ObjectShortName">p0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/p1" type="logic">
+      <obj_property name="ElementShortName">p1</obj_property>
+      <obj_property name="ObjectShortName">p1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/p2" type="logic">
+      <obj_property name="ElementShortName">p2</obj_property>
+      <obj_property name="ObjectShortName">p2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/p3" type="logic">
+      <obj_property name="ElementShortName">p3</obj_property>
+      <obj_property name="ObjectShortName">p3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/p4" type="logic">
+      <obj_property name="ElementShortName">p4</obj_property>
+      <obj_property name="ObjectShortName">p4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/p5" type="logic">
+      <obj_property name="ElementShortName">p5</obj_property>
+      <obj_property name="ObjectShortName">p5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/multi_tb/k" type="array">
+      <obj_property name="ElementShortName">k[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k[31:0]</obj_property>
+   </wvobject>
+</wave_config>
